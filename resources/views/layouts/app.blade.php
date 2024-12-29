@@ -41,7 +41,7 @@
     <link rel="stylesheet" href="{{ asset('home-page/css/style.css') }}">
     <link rel="stylesheet" href="{{ asset('home-page/css/responsive.css') }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    {{-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"> --}}
+   
     <style>
         .blog-header {
             margin-top: 0px;
